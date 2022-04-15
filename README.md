@@ -94,7 +94,7 @@
 
 <p align="left">
 
-<img src ="https://activity-graph.herokuapp.com/graph?username=JawadAlhindi88&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
+<!-- <img src ="https://activity-graph.herokuapp.com/graph?username=JawadAlhindi88&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" > -->
 
 </p>
 
