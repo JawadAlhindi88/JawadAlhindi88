@@ -60,18 +60,7 @@ src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=fo
 
 <a href="https://github.com/JawadAlhindi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAlhindi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-
-
-
-
-
-
-
 ![profile visit](https://komarev.com/ghpvc/?username=JawadAlhindi) 
-
-<br>
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/JawadAlhindi)](https://badges.pufler.dev)
@@ -80,10 +69,6 @@ src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=fo
  
  
 <hr>
-
-
-
-
 
 
 ### Support Me
