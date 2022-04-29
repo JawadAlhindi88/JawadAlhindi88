@@ -9,7 +9,7 @@ Hello, My name is Jawad Alhindi, I'm an syrian Front-end Web Developer who was b
 * 🌍  I'm based in Jordan
 * 🖥️  See my portfolio at [Search In google Jawad Alhindi](http://jawadlhindi.com)
 * ✉️  You can contact me at [me@jawadalhindi.com](mailto:me@jawadalhindi.com)
-* 🚀  I'm currently working on [cms using react](http://jawadalhindi.com)
+* 🚀  I'm currently working on [CMS using react](http://jawadalhindi.com)
 * 🧠  I'm learning Reactjs
 * 🤝  I'm open to collaborating on Creating Eco System
 
