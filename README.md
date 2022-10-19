@@ -7,7 +7,7 @@ Web Developer
 Hello, My name is Jawad Alhindi, I'm an Front-end Web Developer who was born in 2005. Just google My Username: Jawad Alhindi
 
 * 🌍  I'm based in Jordan
-* 🖥️  See my portfolio at [Search In google Jawad Alhindi](https://jawadalhindi.com)
+* 🖥️  See my portfolio at [Search In google Jawad Alhindi](https://jawadalhindi.com) or [this](https://www.google.com/search?q=Jawad+Alhindi)
 * ✉️  You can contact me at [me@jawadalhindi.com](mailto:me@jawadalhindi.com)
 * 🚀  I'm currently working on [LMS using react](https://jawadalhindi.com)
 * 🧠  I'm learning Reactjs
