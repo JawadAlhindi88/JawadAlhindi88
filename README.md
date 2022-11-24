@@ -17,7 +17,8 @@ Hello, My name is Jawad Alhindi, I'm an Front-end Web Developer who was born in 
 src="https://img.shields.io/twitter/follow/JawadAlhindi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a><a href="https://www.github.com/JawadAlhindi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JawadAlhindi?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/jawad_alhindi88" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jawad_alhindi?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/jawad_alhindi88
+?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
