@@ -73,9 +73,3 @@ src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=fo
 <a href="https://www.buymeacoffee.com/JawadAlhindi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
