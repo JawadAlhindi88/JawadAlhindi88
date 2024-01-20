@@ -9,9 +9,9 @@ Hello, My name is Jawad Alhindi, I'm an Full-Stack Web Developer who was born in
 * 🌍  I'm based in Jordan
 * 🖥️  See my portfolio at [Search In google Jawad Alhindi](https://jawadalhindi.com) or [This](https://www.google.com/search?q=Jawad+Alhindi)
 * ✉️  You can contact me at [me@jawadalhindi.com](mailto:me@jawadalhindi.com)
-* 🚀  I'm currently working on [LMS using react](https://jawadalhindi.com)
-* 🧠  I'm learning Reactjs
-* 🤝  I'm open to collaborating on Creating Eco System
+<!--* 🚀  I'm currently working on [LMS using react](https://jawadalhindi.com) -->
+<!--* 🧠  I'm learning Reactjs  -->
+<!--* 🤝  I'm open to collaborating on Creating Eco System  -->
 
 <a href="https://www.twitter.com/JawadAlhindi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JawadAlhindi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
