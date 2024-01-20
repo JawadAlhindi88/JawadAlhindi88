@@ -12,12 +12,10 @@ Hello, My name is Jawad Alhindi, I'm an Full-Stack Web Developer who was born in
 <!--* 🚀  I'm currently working on [LMS using react](https://jawadalhindi.com) -->
 <!--* 🧠  I'm learning Reactjs  -->
 <!--* 🤝  I'm open to collaborating on Creating Eco System  -->
-
-<a href="https://www.twitter.com/JawadAlhindi" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/JawadAlhindi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
-<a href="https://www.github.com/JawadAlhindi"target="_blank"rel="noreferrer">
- 
-<!-- <img src="https://img.shields.io/github/followers/JawadAlhindi?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/jawad_alhindi88" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
+<a href="https://www.github.com/JawadAlhindi" target="_blank" rel="noreferrer"></a>
+<img src="https://img.shields.io/github/followers/JawadAlhindi?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/JawadAlhindi)
+<!--<a href="https://www.twitch.tv/jawad_alhindi88" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
 ### Skills
 
 <p align="left">
