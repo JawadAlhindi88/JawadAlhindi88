@@ -13,12 +13,11 @@ Hello, My name is Jawad Alhindi, I'm an Full-Stack Web Developer who was born in
 <!--* 🧠  I'm learning Reactjs  -->
 <!--* 🤝  I'm open to collaborating on Creating Eco System  -->
 
-<a href="https://www.twitter.com/JawadAlhindi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JawadAlhindi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a><a href="https://www.github.com/JawadAlhindi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JawadAlhindi?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/jawad_alhindi88" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
+<a href="https://www.twitter.com/JawadAlhindi" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/JawadAlhindi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
+<a href="https://www.github.com/JawadAlhindi"target="_blank"rel="noreferrer">
+ 
+<!-- <img src="https://img.shields.io/github/followers/JawadAlhindi?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitch.tv/jawad_alhindi88" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a> -->
 ### Skills
 
 <p align="left">
@@ -58,6 +57,9 @@ src="https://img.shields.io/twitch/status/jawad_alhindi88?logo=twitchsx&style=fo
 
 
 <a href="https://github.com/JawadAlhindi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAlhindi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img src="https://www.codewars.com/users/JawadAlhindi/badges/large"/>
+
 
 ![profile visit](https://komarev.com/ghpvc/?username=JawadAlhindi) 
 
