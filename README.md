@@ -56,7 +56,7 @@ Hello, My name is Jawad Alhindi, I'm an Full-Stack Web Developer who was born in
 
 <a href="https://github.com/JawadAlhindi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAlhindi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://www.codewars.com/users/JawadAlhindi/badges/large"/>
+<!-- <img src="https://www.codewars.com/users/JawadAlhindi/badges/large"/> -->
 
 
 ![profile visit](https://komarev.com/ghpvc/?username=JawadAlhindi) 
