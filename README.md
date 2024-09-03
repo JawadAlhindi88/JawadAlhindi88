@@ -4,7 +4,7 @@ Hi 👋 My name is Jawad Alhindi
 Web Developer
 -------------
 
-Hello, My name is Jawad Alhindi, I'm an Full-Stack Web Developer who was born in 2005. Just google My Username: Jawad Alhindi
+Hello, My name is Jawad Alhindi, I'm an Full-Stack  Developer. Just google My Username: Jawad Alhindi
 
 * 🌍  I'm based in Jordan
 * 🖥️  See my portfolio at [Search In google Jawad Alhindi](https://jawadalhindi.com) or [This](https://www.google.com/search?q=Jawad+Alhindi)
